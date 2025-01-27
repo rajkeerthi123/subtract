@@ -5,7 +5,7 @@ class sub
    int a,b,sub;
    a=9;
    b=4;
-   sub=a-bn;
+   sub=a-b;
    System.out.println("subtraction of two numbers is"+sub);
   }
 }
